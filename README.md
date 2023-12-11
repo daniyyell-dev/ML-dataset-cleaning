@@ -1,6 +1,6 @@
 # CSV Label Processing
 
-This Python script processes a CSV file, renaming labels based on specified conditions. It utilizes the pandas library for data manipulation and analysis.
+Machine learning is fantastic, but dealing with dataset cleaning can be a real challenge. In a recent task involving a dataset, I discovered that the data didn't align with my requirements. Consequently, I found myself spending a considerable amount of time manually cleaning the dataset. The process became particularly daunting when dealing with 40,000 lines of data. That's when I realized the need for a more efficient solution. This code can potentially save you 5 hours of manual work in just 1 minute. This Python script processes a CSV file, renaming labels based on specified conditions. It utilizes the pandas library for data manipulation and analysis.
 
 ## What does this code do?
 
