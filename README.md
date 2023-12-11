@@ -33,7 +33,7 @@ pip install pandas
 
 1. Clone the repository:
  
-   git clone https://github.com/daniyyell-dev/Machine-Learning-Anndroid
+   git clone https://github.com/daniyyell-dev/ML-dataset-cleaning
 
    cd Machine-Learning-Anndroid
 
