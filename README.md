@@ -15,12 +15,13 @@ Before running the script, make sure you have Python 3.x installed. You can down
 
 To install the required library, run the following command in your terminal or command prompt:
 
-```bash
+###Install pandas
+
 pip install pandas
 
 
 ### How to Use
 
 1. Clone the repository:
-   ```bash
+ 
    git clone https://github.com/daniyyell-dev/Machine-Learning-Anndroid
