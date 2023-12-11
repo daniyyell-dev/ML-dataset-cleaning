@@ -1,4 +1,4 @@
-# CSV Label Processing Script
+# CSV Label Processing
 
 This Python script processes a CSV file, renaming labels based on specified conditions. It utilizes the pandas library for data manipulation and analysis.
 
