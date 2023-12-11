@@ -15,7 +15,7 @@ Before running the script, make sure you have Python 3.x installed. You can down
 
 To install the required library, run the following command in your terminal or command prompt:
 
-###Install pandas
+### Install pandas
 
 pip install pandas
 
