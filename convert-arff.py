@@ -2,11 +2,11 @@ import pandas as pd
 from scipy.io import arff
 
 # Load the CSV file
-csv_file_path = 'word_label_dataset.csv'  # Replace with the actual path to your CSV file
+csv_file_path = 'YOUR_DATASET.csv'  # Replace with the actual path to your CSV file, please makes sure it has correct label e.g BENIGN,MALWARE
 df = pd.read_csv(csv_file_path)
 
 # Convert the DataFrame to an ARFF format
-arff_file_path = 'Dataset-me-WEKA2.arff'  # Replace with the desired output path
+arff_file_path = 'OUTPUT_NAME.arff'  # Replace with the desired output name.
 
 with open(arff_file_path, 'w') as arff_file:
     arff_file.write('@RELATION Dataset\n\n')
