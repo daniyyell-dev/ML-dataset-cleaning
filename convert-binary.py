@@ -18,5 +18,5 @@ df_binary = df.iloc[:, :-1].applymap(lambda x: 1 if x != 0 else 0)
 df_binary['LABEL'] = labels
 
 # Save the updated dataset
-output_file_path = 'binary_dataset.csv'
+output_file_path = 'OUTPUT.csv'
 df_binary.to_csv(output_file_path, index=False)
