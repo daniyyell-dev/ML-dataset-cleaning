@@ -6,7 +6,7 @@ Machine learning is fantastic, but dealing with dataset cleaning can be a real c
 
 The script reads a CSV file and modifies the labels in the last column based on the following conditions:
 
-- If the label starts with "Android_", it is renamed to "MALWARE."
+- If the label starts with "Android_", e.g Android_Adware or any label that indicate Malware -- it is renamed to "MALWARE."
 - If the label is "Benign," it is renamed to "BENIGN."
 
 The changed and unchanged labels are printed to the console.
@@ -37,4 +37,4 @@ pip install pandas
 
    cd Machine-Learning-Anndroid
 
-Note: Make sure the dataset is inside the same folder of this code. 
+Note: Make sure the dataset is inside the same folder of this code and if you encounter any issues do not hesitate to DM.  
